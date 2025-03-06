@@ -46,7 +46,7 @@ npm i
 npm run dev
 
 ## Team Contributions
-Aghin Khalid CP: UI/UX design, Frontend development
-Sreejith M: Backend integration, API management
+- Aghin Khalid CP: UI/UX design, Frontend development
+- Sreejith M: Backend integration, API management
 ---
 Dept. of Computer Applications, CUCEK
