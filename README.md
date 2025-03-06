@@ -1,69 +1,52 @@
-# Welcome to your Lovable project
+# CUCEKCONNECT 🎯
 
-## Project info
 
-**URL**: https://lovable.dev/projects/07e281f5-744f-4c44-8772-566e22079d1a
+## Basic Details
+### Team Name: Kattaminds
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+### Team Members
+- Member 1: Aghin Khalid CP 
+- Member 2: Sreejith M
 
-**Use Lovable**
+## 🔥 Live Demo
+Check out the live demo here: [CUCEK CONNECT Demo](https://lovable.dev/projects/6d7326f3-97c3-4ae8-97c2-b9610ca77b53)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/07e281f5-744f-4c44-8772-566e22079d1a) and start prompting.
+### Project Description
+CUCEK CONNECT is a platform designed to streamline communication, collaboration, and resource sharing among students and faculty.
 
-Changes made via Lovable will be committed automatically to this repo.
+### The Problem statement
+Lack of a centralized platform for academic and extracurricular updates, resulting in miscommunication and inefficiency.
 
-**Use your preferred IDE**
+### The Solution
+A modern web application that provides real-time announcements, event management, student contributions, and academic resources, all in one place.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Technical Details
+### Technologies Used
 
-Follow these steps:
+- **Languages**: TypeScript  
+- **Frameworks**: React, Vite  
+- **Libraries**: shadcn-ui, Tailwind CSS  
+- **Tools**: GitHub, Lovable  
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Implementation
+For Software:
+## Installation
+# Step 1: Clone the repository
+git clone https://github.com/kattaminds/cucekconnect.git
+# Step 2: Navigate to the project directory
+cd cucekconnect
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+# Step 3: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Run
+# Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/07e281f5-744f-4c44-8772-566e22079d1a) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+## Team Contributions
+Aghin Khalid CP: UI/UX design, Frontend development
+Sreejith M: Backend integration, API management
+---
+Dept. of Computer Applications, CUCEK
